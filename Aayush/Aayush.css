@@ -1,0 +1,35 @@
+body{
+    background-color: gray;
+}
+h1{
+    color: red;
+}
+p{
+    color:purple;
+}
+img{
+    width:200px;
+    border-radius: 30px;
+    float: left;
+}
+.yo {
+width: 200px;
+}
+
+*{
+
+color: blue;
+
+font-size: 12px;
+
+}
+ul{
+    color: black
+    font-ize:12px;;
+}
+h1{
+    color: red;
+}
+h2{
+    color: red;
+}

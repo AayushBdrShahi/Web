@@ -1,0 +1,44 @@
+
+    ul{
+
+        border: 10opx solid #ccc;
+        
+        font-size: 12px;
+        
+        }
+       
+        #h1{
+
+            border: 10px solid #ccc;
+            
+            font-size: 12px;
+            
+            }
+            .hobbies{
+
+                margin: 1px;
+                
+                width: 1200px;
+                
+                }
+                .intro{
+
+                    margin: 1px;;
+                    
+                    width: 1200px;
+                    
+                    }
+                    .education{
+
+                        margin: 0 auto;
+                        
+                        width: 1200px;
+                        
+                        }
+                        .contact{
+
+                            margin: 0 auto;
+                            
+                            width: 1200px;
+                            
+                            }
